@@ -1,0 +1,29 @@
+Recreated AT&Y SPEC-MATE v2.01
+
+Bill Of Materials
+
+R1	1x 1K 1/4W Resistor
+R2	1x 510R 1/4W Resistor
+R3	1x 10K 1/4W Resistor
+R4	1x 1K1 1/4W Resistor
+C1	1x 10u 25v Electrolytic Capacitor
+C2	1x 2u2 Electrolytic Capacitor
+
+U1	1x 74LS121
+U2/4	2x 74LS32
+U3/9	2x SN7425
+U5	1x 74LS00
+U6	1x 74LS20
+U7	1x 74LS74
+U8	1x 74LS04
+U10	1x 2764 EPROM
+
+Q1	1x 2N2222A Transistor
+
+S1	1x Horizontal Tact Switch (Optional)
+S2	1x Right Angle Tact Switch
+
+P1	1x 28x2 Pin Spectrum Edge Connector with slot in pos. 5.
+
+*** www.ProjectSPECCY.com ***
+
